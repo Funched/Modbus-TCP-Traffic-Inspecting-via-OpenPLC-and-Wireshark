@@ -18,4 +18,10 @@ It has a conveyor actuator as output and a sensor as input. In this scenario, th
 
 # Programming
 
-PLC is programmed so that the conveyor can be controlled with. The program has basic contactor and actuator and is created with ladder diagram.
+PLC is programmed so that the conveyor can be controlled with. The program has basic contactor and actuator and is created with ladder diagram. I used OpenPLC Editor for this.
+
+![resim](https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/d016f72f-1234-4c15-aad7-ca1d560fc60a)
+
+# OpenPLC configuration and service start
+
+
