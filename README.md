@@ -27,13 +27,19 @@ PLC is programmed so that the conveyor can be controlled with. The program has b
 
 # OpenPLC configuration and service start
 
-OpenPLC installed and configured on Ubuntu. It is important to make sure that the OpenPLC service is running correctly. 
+OpenPLC installed and configured on Ubuntu.
+
+It is important to make sure that the OpenPLC service is enabled and running correctly. 
+
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/017636b2-0664-405f-b9ac-8015fe077a13.png" width="60%">
 
 Now we can configurate OpenPLC from web interface.
 
 <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/2c9fa4ac-63c7-40f0-a7f0-128ede766002.png" width="70%">
 
-After the device is configured correctly, the program.st file can be uploaded from the program tab.
+After the device configuration completed, the [program.st](https://github.com/don-talcapone/Modbus-Sniff/edit/main/program.st) file can be uploaded from the program tab.
+
+When the operations are done correctly, we are completely ready to run OpenPLC.
 
 
 
