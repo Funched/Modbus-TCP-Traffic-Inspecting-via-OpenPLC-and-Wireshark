@@ -13,6 +13,7 @@ Factory IO: Contains 3D models of actuators and sensors that can interact with O
 # Lab Environment
 
 ![resim](https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/01f53904-8245-4d88-a5fe-0e9c75f1ce96)
+<img src="[https://github.com/favicon.ico](https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/01f53904-8245-4d88-a5fe-0e9c75f1ce96)">
 
 It has a conveyor actuator as output and a sensor as input. In this scenario, the conveyor runs until the box reaches the sensor. The conveyor will stop when the box arrives.
 ![resim](https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/cedb1803-32be-4413-8bab-c35804bc4253)
