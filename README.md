@@ -41,6 +41,8 @@ After the device configuration completed, the [program.st](https://github.com/do
 
 When the operations are done correctly, we are completely ready to run OpenPLC.
 
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/00b03387-92b9-43da-8d7a-a670ab025a95.png" width="70%">
+
 
 
 
