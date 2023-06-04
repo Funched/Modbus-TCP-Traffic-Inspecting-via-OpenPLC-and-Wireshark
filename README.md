@@ -33,6 +33,10 @@ Now we can configurate OpenPLC from web interface.
 
 <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/2c9fa4ac-63c7-40f0-a7f0-128ede766002.png" width="70%">
 
+After the device is configured correctly, the program.st file can be uploaded from the program tab.
+
+
+
 
 
 
