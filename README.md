@@ -57,7 +57,7 @@ The status of the sensor and actuator can be followed from the Openplc monitorin
   <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/6bded30f-3462-47c8-b295-f55ad91e3810.png" width="50%" />
 </p>
 
-# Sniffing Traffic
+# Inspecting Traffic
 
 Finally the Modbus traffic can be inspected via Wireshark. 
 
