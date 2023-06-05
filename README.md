@@ -54,6 +54,9 @@ The status of the sensor and actuator can be followed from the Openplc monitorin
 
 <p float="left">
   <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/3af88448-0dec-4136-9a40-eaf841a62ae2.png" width="45%" />
-  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/6bded30f-3462-47c8-b295-f55ad91e3810" width="50%" />
+  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/6bded30f-3462-47c8-b295-f55ad91e3810.png" width="50%" />
 </p>
 
+# Sniffing Traffic
+
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/d7859686-20ce-4969-ae58-a3adb4193916.png" width="70%" />
