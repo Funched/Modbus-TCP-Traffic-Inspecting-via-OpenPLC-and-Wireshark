@@ -1,4 +1,4 @@
-# Modbus/TCP-Sniff
+# Modbus/TCP Inspecting
 
 I have created a Lab environment for sniff and analyze Modbus/TCP traffic in this repo via Factory IO and OpenPLC.
 
