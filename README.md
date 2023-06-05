@@ -23,7 +23,7 @@ Driver configured as Modbus TCP/IP server.
 
 PLC is programmed so that the conveyor can be controlled with. The program has basic contactor and actuator and is created with ladder diagram. Used OpenPLC Editor for this.
 
-<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/37a90e02-8d18-4f3b-82b2-1c9f8aafa7a5.png" width="60%">
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/49673d1a-0fc3-4992-bcf1-9543627f8777" width="60%">
 
 # OpenPLC configuration and service start
 
@@ -35,17 +35,25 @@ It is important to make sure that the OpenPLC service is enabled and running cor
 
 Now we can configurate OpenPLC from web interface.
 
-<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/2c9fa4ac-63c7-40f0-a7f0-128ede766002.png" width="70%">
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/2c9fa4ac-63c7-40f0-a7f0-128ede766002.png" width="60%">
 
 After the device configuration completed, the [program.st](https://github.com/don-talcapone/Modbus-Sniff/edit/main/program.st) file can be uploaded from the program tab.
 
 When the operations are done correctly, we are completely ready to run OpenPLC.
 
-<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/00b03387-92b9-43da-8d7a-a670ab025a95.png" width="70%">
+<img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/00b03387-92b9-43da-8d7a-a670ab025a95.png" width="60%">
 
 # Monitoring
 
+The status of the sensor and actuator can be followed from the Openplc monitoring tab. 
 
+<p float="left">
+  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/a7336d2b-60d6-442b-9c1e-70cdf0a29182.png" width="45%" />
+  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/6b463ac2-9d24-4686-8734-2e6e748a7d57.png" width="50%" />
+</p>
 
-
+<p float="left">
+  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/3af88448-0dec-4136-9a40-eaf841a62ae2.png" width="45%" />
+  <img src="https://github.com/don-talcapone/Modbus-Sniff/assets/135317904/6bded30f-3462-47c8-b295-f55ad91e3810" width="50%" />
+</p>
 
