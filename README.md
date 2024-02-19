@@ -1,4 +1,4 @@
-# Modbus/TCP Inspecting
+# Modbus/TCP Analyze
 
 I have created a Lab environment for inspect Modbus/TCP traffic in this repo via Factory IO and OpenPLC.
 
